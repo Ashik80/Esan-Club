@@ -16,4 +16,4 @@ This is a project for the club that we have been working on in [Dhubaria, Tangai
 
 We started with 5 members and now we are 9. We are looking forward to take this club to great heights and make people appreciate our club.
 
-I used [Next.js]() to create this project, and only used vanilla `CSS` to design it.
+I used [Next.js](https://nextjs.org) to create this project, and only used vanilla `CSS3` to design it.

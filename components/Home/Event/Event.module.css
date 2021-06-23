@@ -1,0 +1,35 @@
+.event {
+  height: 100vh;
+  padding-top: 4rem;
+}
+
+.header {
+  text-align: center;
+  /* color: #e87b2d; */
+  text-transform: uppercase;
+  font-size: 2.6rem;
+}
+
+.showCase {
+  margin-top: 7rem;
+  display: flex;
+  height: 80%;
+}
+
+.imageContainer {
+  width: 100%;
+  height: 80%;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  min-width: 50%;
+  height: 80%;
+  height: 15rem;
+  width: 80%;
+  background-color: #e87b2d;
+  border-radius: 1.5rem;
+}

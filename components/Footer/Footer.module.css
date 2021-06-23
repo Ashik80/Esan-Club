@@ -1,0 +1,41 @@
+.footer {
+  position: relative;
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.background {
+  position: absolute;
+  height: 200%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  background-color: rgb(41, 37, 37);
+  transform: skewY(-5deg);
+}
+
+.list {
+  color: rgb(214, 214, 214);
+  list-style: none;
+  display: flex;
+  margin: 2rem 0;
+  width: 30%;
+  justify-content: space-around;
+}
+
+.divider {
+    height: 1px;
+    color:rgb(59, 59, 59);
+    background-color: rgb(59, 59, 59);
+    border: none;
+    width: 70%;
+}
+
+.copyright {
+    color: rgb(156, 156, 156);
+    margin: 1rem 0;
+    font-size: 0.7rem;
+}

@@ -1,0 +1,31 @@
+.advertise {
+    height: 100vh;
+    position: relative;
+    text-align: center;
+}
+
+.adcards {
+    display: flex;
+    height: inherit;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5rem;
+}
+
+.background {
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    background-color: rgb(41, 37, 37);
+    transform: skewY(-5deg);
+}
+
+.header {
+    transform: translateY(6rem);
+    color: #E87B2D;
+    text-transform: uppercase;
+    font-size: 2.6rem;
+}

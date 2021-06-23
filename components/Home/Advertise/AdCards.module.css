@@ -1,0 +1,15 @@
+.card {
+    height: 15rem;
+    width: 13rem;
+    border: 0.3rem solid #E87B2D;
+    /* background-color: white; */
+    background-color: rgb(94, 94, 94);
+    color: white;
+    border-radius: 1.2rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.title {
+    margin: 1rem 0;
+}

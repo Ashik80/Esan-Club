@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    height: 6rem;
+    padding: 0 4rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navlist {
+    list-style: none;
+    display: flex;
+}
+
+.navlist > li {
+    margin: 0 1rem;
+}

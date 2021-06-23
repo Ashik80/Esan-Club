@@ -1,0 +1,42 @@
+.info {
+  min-width: 50%;
+  height: 80%;
+  width: 100%;
+  padding-left: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.infoCard {
+  border: 0.05rem solid rgb(228, 228, 228);
+  border-bottom: 0.5rem solid rgb(41, 37, 37);
+  /* border-radius: 1.2rem; */
+  /* box-shadow: 0.02rem 0.02rem 0.5rem rgb(172, 172, 172); */
+  padding: 2rem;
+  width: 80%;
+}
+
+.infoCard > * {
+    margin: 1.1rem 0;
+}
+
+.header {
+    text-transform: uppercase;
+}
+
+.button {
+    padding: 0.7rem 1.5rem;
+    border-radius: 5rem;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    background-image: linear-gradient(to right, #DF610D, #EF9148);
+}
+
+.list {
+    list-style: none;
+}
+
+.list > li {
+    margin: 0.5rem 0;
+}
